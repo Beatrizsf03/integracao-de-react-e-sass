@@ -9,7 +9,7 @@ const Sidebar = () => {
         <aside id="sidebar">
             <img src={Avatar} alt="Beatriz Ferreira" />
             <p className="title">Desenvolvedora</p>
-            <SocialNetworks />
+            
             <p>informações de contato</p>
             <a href="" className="btn">
                 Download currículo
@@ -18,4 +18,4 @@ const Sidebar = () => {
     )
 };
 
-export default Sidebar
+export default Sidebar;
