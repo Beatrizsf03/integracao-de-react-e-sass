@@ -15,7 +15,7 @@ const InformationContainer = () => {
             <div className="info-card">
                 <AiOutlineMail id="email-icon"/>
                 <div>
-                    <h4>E-mail</h4>
+                    <h3>E-mail</h3>
                     <p>beatriz@mail.com</p>
                 </div>
             </div>
@@ -23,7 +23,7 @@ const InformationContainer = () => {
             <div className="info-card">
                 <AiFillEnvironment id="pin-icon"/>
                 <div>
-                    <h5>Localização</h5>
+                    <h3>Localização</h3>
                     <p>SBC / SP</p>
                 </div>
             </div>
