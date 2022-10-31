@@ -1,8 +1,9 @@
-#integracao-de-react-e-sass
+# integracao-de-react-e-sass
 Hello. I did this project following the teachings of Matheus Battisti - Hora de Codar on youtube. Video link: https://youtu.be/5h4vMtBlQQU
 
-Project details: react and sass integration.
-Obs:It's not my official portfolio. I made the project for academic purposes
+Project details: React and Sass integration.
+
+Obs: It's not my official portfolio. I made the project for academic purposes
 
 <p align="center">Result:</p>
 
